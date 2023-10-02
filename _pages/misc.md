@@ -4,7 +4,7 @@ permalink: /misc/
 title: misc
 description: 
 nav: true
-nav_order: 7
+nav_order: 6
 ---
 
 **The books I am reading or have recently read:**

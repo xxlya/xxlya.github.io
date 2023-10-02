@@ -4,7 +4,7 @@ permalink: /service/
 title: service
 description: 
 nav: true
-nav_order: 2
+nav_order: 3 
 ---
 
 **I have served as an organizing committee member at the following conferences/workshops/events.**
