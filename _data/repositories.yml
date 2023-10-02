@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - xxlya
+  - ubc-tea
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ubc-tea/SADM-Longitudinal-Medical-Image-Generation
+  - ubc-tea/FCRO-Fair-Classification-Orthogonal-Representation
+  - med-air/FedBN
+  - xxlya/DistDeepSHAP
+  - xxlya/BrainGNN_Pytorch

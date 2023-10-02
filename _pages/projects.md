@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: fundings
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+description: I am grateful for all the support from UBC, govermental funding agencies and industrial funds.
+nav: false
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Goverment, Industry, UBC]
 horizontal: false
 ---
 
