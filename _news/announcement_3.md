@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-10 
+date: 2021-10-01 
 inline: true
 related_posts: false
 ---
-I am hornored to receive NVIDIA Academic Hardware Grant as a PI. Thanks for NVIDIA's support!
+I am hornored to server as the president of Women in MICCAI (WiM) 2021-2023.

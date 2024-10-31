@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2022-05-01 
+date: 2024-09-01 
 inline: true
+related_posts: false
 ---
-I received NSERC Discovery Grant as a PI on Lifelong Federated Learning.
+Dr. Li is serving as an Area Chair at ICLR 2025.

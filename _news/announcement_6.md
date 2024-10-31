@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-27 
+date: 2021-08-26 
 inline: true
 ---
-I received UBC Health Innovation Funding Investment Awards with Dr. Gang Wang as a Co-PI.
+I received NVIDIA Academic Hardware Grant as a PI. Thanks for NVIDIA's support!

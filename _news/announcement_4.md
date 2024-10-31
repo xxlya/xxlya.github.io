@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-08-26 
+date: 2022-05-01 
 inline: true
 ---
-I received NVIDIA Academic Hardware Grant as a PI. Thanks for NVIDIA's support!
+I received NSERC Discovery Grant as a PI on Lifelong Federated Learning.

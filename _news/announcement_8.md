@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-07-25 
+date: 2022-07-27 
 inline: true
 ---
-I received UBC Green Lab Fund as a PI.
+I received UBC Health Innovation Funding Investment Awards with Dr. Gang Wang as a Co-PI.

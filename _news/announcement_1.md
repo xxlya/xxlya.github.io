@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-10-01 
+date: 2024-10-06 
 inline: true
 related_posts: false
 ---
-I am hornored to server as the president of Women in MICCAI (WiM) 2021-2023.
+Dr. Li is serving as a member of Award Committee,  a panelist of AI and Healthcare debate, and delivering a keynote on foundation model fairness at MICCAI 2024.

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-08-28 
+date: 2023-07-25 
 inline: true
 ---
-I received Canada Foundation for Innovation Grant as a PI.
+I received UBC Green Lab Fund as a PI.
