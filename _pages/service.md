@@ -20,9 +20,10 @@ nav_order: 3
 - [IMLH@ICML](https://sites.google.com/view/imlh2023/home?authuser=1) (2021-2023)
 
 **I have served on the editor role of the following journals/books.**
+- [Associate Editor of Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis/about/announcements)
 - [Topic Editor of Frontiers in NeuroImaging](https://www.frontiersin.org/research-topics/29725/deep-learning-in-neuroimaging-based-neurological-disease-analysis)
 - [Guest Editor of IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2023/09/JBHI_Foundation-Models_SI.pdf)
-- [Guest Editor of Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis/about/announcements)
+
 - [Guest Editor of Cell Patterns](https://www.cell.com/patterns/special-issues/call-for-papers/federated-learning-in-digital-healthcare)
 - Editor of book "Federated Learning for Healthcare"
 
