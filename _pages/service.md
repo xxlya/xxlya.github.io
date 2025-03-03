@@ -29,7 +29,7 @@ nav_order: 3
 **I have served on the area chair/session chair of the following conferences.**
 
 - ICLR (2025)
-- NeurIPS Dataset&Benchmark (2025)
+- NeurIPS Dataset&Benchmark (2024)
 - MICCAI (2022-2025)
 - IPMI (2023)
 
