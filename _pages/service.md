@@ -9,7 +9,7 @@ nav_order: 3
 
 **I have served as an organizing committee member at the following conferences/workshops/events.**
 
-- [IJCAI] (https://2025.ijcai.org/sponsorship-opportunities/) (2025)
+- [IJCAI](https://2025.ijcai.org/sponsorship-opportunities/) (2025)
 - [ISBI](https://biomedicalimaging.org/2025/)(2025)
 - [CHIL](https://www.chilconference.org/index.html)(2024)
 - [MedNeurIPS@NeurIPS](https://sites.google.com/view/med-neurips2023) (2021-2023)
