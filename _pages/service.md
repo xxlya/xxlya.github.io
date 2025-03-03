@@ -9,6 +9,7 @@ nav_order: 3
 
 **I have served as an organizing committee member at the following conferences/workshops/events.**
 
+- [ISBI](https://biomedicalimaging.org/2025/)(2025)
 - [CHIL](https://www.chilconference.org/index.html)(2024)
 - [MedNeurIPS@NeurIPS](https://sites.google.com/view/med-neurips2023) (2021-2023)
 - [MedFM@NeurIPS](https://medfm2023.grand-challenge.org/) (2023)
@@ -27,7 +28,9 @@ nav_order: 3
 
 **I have served on the area chair/session chair of the following conferences.**
 
-- MICCAI (2022-2023)
+- ICLR (2025)
+- NeurIPS Dataset&Benchmark (2025)
+- MICCAI (2022-2025)
 - IPMI (2023)
 
 **I have been invited to give keynote talks in following workshops.**
