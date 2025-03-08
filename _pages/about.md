@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI researcher, forever learner and traveler. 
+subtitle: AI researcher, forever learner and traveler. My first name is pronounced as  "Shau-Shau".
 
 profile:
   align: right
