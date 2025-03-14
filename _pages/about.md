@@ -18,11 +18,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am an Assistant Professor in the Electrical and Computer Engineering Department and an Associate Member in the Computer Science Department at the University of British Columbia (UBC). I am also faculty member at <a href="https://vectorinstitute.ai/">Vector Institue</a> and  an adjunct Assistant Professor at <a href="https://medicine.yale.edu/profile/xiaoxiao-li/">School of Medicine, Yale University</a>. I am honored to be named as a <a href="https://cifar.ca/ai/canada-cifar-ai-chairs/">Canada CIFAR AI Chair</a> and a <a href="https://www.chairs-chaires.gc.ca/home-accueil-eng.aspx">Canada Research Chair</a>  (Tier II) in Responsible AI.
  
-Before joining UBC, I was a postdoc working with <a href="https://www.cs.princeton.edu/~li/">Prof. Kai Li</a> and <a href="https://function.princeton.edu/">Prof. Olga Troyanskaya</a>. I obtained my Ph.D. degree  from Yale University, where I was fortunate to be advised by <a href="https://seas.yale.edu/faculty-research/faculty-directory/james-duncan?destination=node%2F309">Prof. James Duncan</a>. I obtained my B.S. (honors degree) from Chu Kochen College, Zhejiang University, China, in June 2015. 
+Before joining UBC, I was a postdoc working with <a href="https://www.cs.princeton.edu/~li/">Prof. Kai Li</a> and <a href="https://function.princeton.edu/">Prof. Olga Troyanskaya</a> at Princeton University. I obtained my Ph.D. degree  from Yale University, where I was fortunate to be advised by <a href="https://seas.yale.edu/faculty-research/faculty-directory/james-duncan?destination=node%2F309">Prof. James Duncan</a>. I obtained my B.S. (honors degree) from Chu Kochen College, Zhejiang University, China, in June 2015. 
 
-My current research lies in machine learning and its application to healthcare. I aim to narrow the gap between AI research and its applications by developing the next-generation trustworthy AI systems. 
+My current research lies in improving trustworthiness and efficiency in machine learning algrithms and foundation models. I am also into novel Agentic AI systems. I aim to narrow the gap between AI research and its applications by developing the next-generation trustworthy AI systems. 
 
-Please visit our group website <a href="https://ubc-tea.github.io/lab-web/"> Trusted and Efficient AI (TEA) Lab</a> to learn about our up-to-date research projects and meet with my students.
+Please visit our group website <a href="https://ubc-tea.github.io/lab-web/"> Trusted and Efficient AI (TEA) Lab</a> to learn about our up-to-date research projects and meet with my students. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
