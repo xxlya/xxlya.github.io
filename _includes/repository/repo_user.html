@@ -1,6 +1,12 @@
-<div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.username }}">
-    <img class="repo-img-light w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true">
-    <img class="repo-img-dark w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true">
-  </a>
-</div>
+<a href="https://github.com/{{ include.user.username }}" target="_blank" rel="noopener" class="repo-card user-card">
+  <img class="repo-avatar" src="{{ include.user.avatar }}" alt="{{ include.user.username }}" loading="lazy">
+  <div class="repo-card-body">
+    <div class="repo-card-title">{{ include.user.name }}</div>
+    <div class="repo-card-sub">@{{ include.user.username }}</div>
+    {% if include.user.bio %}<div class="repo-card-desc">{{ include.user.bio }}</div>{% endif %}
+    <div class="repo-card-stats">
+      <span><i class="fas fa-book"></i>&nbsp;{{ include.user.repos }} repos</span>
+      <span><i class="fas fa-user-friends"></i>&nbsp;{{ include.user.followers }} followers</span>
+    </div>
+  </div>
+</a>

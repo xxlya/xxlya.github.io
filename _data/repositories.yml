@@ -1,10 +1,40 @@
 github_users:
-  - xxlya
-  - ubc-tea
+  - username: xxlya
+    name: Xiaoxiao Li
+    bio: AP@UBC
+    avatar: https://avatars.githubusercontent.com/u/26315113?v=4
+    repos: 51
+    followers: 162
+  - username: ubc-tea
+    name: TeaLab
+    bio: Trusted and Efficient AI (TEA) Lab at UBC
+    avatar: https://avatars.githubusercontent.com/u/109434236?v=4
+    repos: 37
+    followers: 40
 
 github_repos:
-  - ubc-tea/SADM-Longitudinal-Medical-Image-Generation
-  - ubc-tea/FCRO-Fair-Classification-Orthogonal-Representation
-  - med-air/FedBN
-  - xxlya/DistDeepSHAP
-  - xxlya/BrainGNN_Pytorch
+  - full_name: med-air/FedBN
+    description: "[ICLR'21] FedBN: Federated Learning on Non-IID Features via Local Batch Normalization"
+    language: Python
+    stars: 274
+    forks: 41
+  - full_name: xxlya/BrainGNN_Pytorch
+    description: A preliminary implementation of BrainGNN.
+    language: Python
+    stars: 211
+    forks: 49
+  - full_name: ubc-tea/SADM-Longitudinal-Medical-Image-Generation
+    description: 'Official implementation of our IPMI 2023 paper "SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation".'
+    language: Python
+    stars: 75
+    forks: 5
+  - full_name: ubc-tea/FCRO-Fair-Classification-Orthogonal-Representation
+    description: 'Official implementation of "On Fairness of Medical Image Classification with Multiple Sensitive Attributes via Learning Orthogonal Representations" (IPMI 2023).'
+    language: Python
+    stars: 9
+    forks: 1
+  - full_name: xxlya/DistDeepSHAP
+    description: "DistDeepSHAP: improving DeepSHAP with uncertainty quantification."
+    language: Jupyter Notebook
+    stars: 7
+    forks: 0
