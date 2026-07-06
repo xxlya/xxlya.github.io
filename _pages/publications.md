@@ -6,8 +6,6 @@ description: Selected representative publications, grouped by research theme. Fo
 nav: true
 nav_order: 2
 categories:
-  - key: vision
-    name: Vision and Multimodal Perception
   - key: rl
     name: Reinforcement Learning, Reward Modeling &amp; Policy Optimization
   - key: agentic
@@ -18,6 +16,8 @@ categories:
     name: Evaluation, Robustness &amp; Verification for Deployment
   - key: optim
     name: Optimization &amp; Distributed (Large-Scale) Learning
+  - key: vision
+    name: Vision and Multimodal Perception
 ---
 <div class="publications">
 
