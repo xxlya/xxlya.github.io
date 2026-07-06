@@ -27,13 +27,13 @@ I aim to narrow the gap between AI research and its applications by building the
 My research currently spans the following themes; the pointers link to representative papers (see the full list on the <a href="/publications/">publications</a> page).
 
 - **Reinforcement Learning, Reward Modeling &amp; Policy Optimization** — understanding and stabilizing group-relative RL (GRPO/RLVR): exploration–exploitation steering, negative-gradient effects, reward hacking, and policy collapse.
-  <br>→ <a href="/publications/">Token Hidden Reward (ICLR'26)</a>, <a href="/publications/">On GRPO Collapse in Search-R1 (ICML'26)</a>, <a href="https://arxiv.org/abs/2602.08901">GSS</a>.
+  <br>→ <a href="/publications/">Token Hidden Reward</a>, <a href="/publications/">On GRPO Collapse in Search-R1</a>, <a href="https://arxiv.org/abs/2602.08901">GSS</a>.
 - **Agentic Systems, Planning &amp; Optimization** — compound/agentic AI: budget-aware value-tree search, multi-agent→single-agent distillation, and optimizing multi-component pipelines.
-  <br>→ <a href="https://arxiv.org/abs/2603.12634">Budget-Aware Value Tree Search</a>, <a href="https://arxiv.org/abs/2602.03955">AgentArk</a>, <a href="/publications/">Textual Equilibrium Propagation (ICLR'26)</a>.
+  <br>→ <a href="https://arxiv.org/abs/2603.12634">Budget-Aware Value Tree Search</a>, <a href="https://arxiv.org/abs/2602.03955">AgentArk</a>, <a href="/publications/">Textual Equilibrium Propagation</a>.
 - **Data-Centric AI: Valuation, Curation &amp; Synthetic Data** — data valuation and knowledge-grounded curation for SFT/RLHF and generative models.
-  <br>→ <a href="https://openreview.net/pdf?id=WncnpvJk83">GMValuator</a>, <a href="https://arxiv.org/abs/2504.00993">MedReason</a>, <a href="/publications/">Efficient Forward-Only Data Valuation (ACL'26)</a>.
+  <br>→ <a href="https://openreview.net/pdf?id=WncnpvJk83">GMValuator</a>, <a href="https://arxiv.org/abs/2504.00993">MedReason</a>, <a href="/publications/">Efficient Forward-Only Data Valuation</a>.
 - **Evaluation, Robustness &amp; Verification for Deployment** — reward/evaluation frameworks, attention-distraction diagnostics for LVLMs, self-verification reliability, fairness and robustness benchmarks.
-  <br>→ <a href="/publications/">When RAG Hurts (ICML'26)</a>, <a href="https://arxiv.org/abs/2605.10850">Verification Mirage</a>, <a href="https://arxiv.org/abs/2602.00443">RVCBench</a>, <a href="https://arxiv.org/abs/2407.00983">FairMedFM</a>.
+  <br>→ <a href="/publications/">When RAG Hurts</a>, <a href="https://arxiv.org/abs/2605.10850">Verification Mirage</a>, <a href="https://arxiv.org/abs/2602.00443">RVCBench</a>, <a href="https://arxiv.org/abs/2407.00983">FairMedFM</a>.
 - **Optimization &amp; Distributed (Large-Scale) Learning** — federated/distributed learning, model merging, delta-parameter pruning, and convergence analysis.
   <br>→ <a href="https://openreview.net/pdf?id=Cy5IKvYbR3">Can Textual Gradient Work in FL?</a>, <a href="https://arxiv.org/abs/2410.09344">DARE</a>, <a href="https://arxiv.org/abs/2410.23660">Local Superior Soups</a>.
 - **Vision &amp; Multimodal Perception** — vision-language and multimodal representation learning, graph-prompt learning, robust learning on noisy/missing signals, and high-order relational modeling.
