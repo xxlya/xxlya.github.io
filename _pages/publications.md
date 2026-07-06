@@ -2,16 +2,28 @@
 layout: page
 permalink: /publications/
 title: publications
-# description: Please check my full publication at <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sdENOQ4AAAAJ&sortby=pubdate"> Google Scholar</a>
-years: [2025, 2024, 2023, 2022, 2021]
+description: Selected representative publications, grouped by research theme. For the complete and up-to-date list, please see my <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=sdENOQ4AAAAJ&sortby=pubdate">Google Scholar</a>.
 nav: true
 nav_order: 2
+categories:
+  - key: vision
+    name: Vision and Multimodal Perception
+  - key: rl
+    name: Reinforcement Learning, Reward Modeling &amp; Policy Optimization
+  - key: agentic
+    name: Agentic Systems, Planning &amp; Optimization
+  - key: data
+    name: "Data-Centric AI: Valuation, Curation &amp; Synthetic Data"
+  - key: eval
+    name: Evaluation, Robustness &amp; Verification for Deployment
+  - key: optim
+    name: Optimization &amp; Distributed (Large-Scale) Learning
 ---
 <div class="publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+{%- for cat in page.categories %}
+  <h2 class="category">{{ cat.name }}</h2>
+  {% bibliography -f papers -q @*[category={{ cat.key }}]* %}
 {% endfor %}
 
 </div>
