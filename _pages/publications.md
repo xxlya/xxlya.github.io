@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Selected representative publications, grouped by research theme. For the complete and up-to-date list, please see my <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=sdENOQ4AAAAJ&sortby=pubdate">Google Scholar</a>.
+description: Selected representative publications, grouped by research theme.
 nav: true
 nav_order: 2
 categories:
@@ -19,6 +19,8 @@ categories:
   - key: vision
     name: Vision and Multimodal Perception
 ---
+<p>For the complete and up-to-date list, please see my <a href="https://scholar.google.com/citations?user=sdENOQ4AAAAJ&amp;hl=en&amp;sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a> profile.</p>
+
 <div class="publications">
 
 {%- for cat in page.categories %}
