@@ -18,6 +18,8 @@ categories:
     name: Optimization &amp; Distributed (Large-Scale) Learning
   - key: vision
     name: Vision and Multimodal Perception
+  - key: biomed
+    name: Biomedical &amp; Scientific Discovery
 ---
 <p>For the complete and up-to-date list, please see my <a href="https://scholar.google.com/citations?user=sdENOQ4AAAAJ&amp;hl=en&amp;sortby=pubdate" target="_blank" rel="noopener">Google Scholar</a> profile.</p>
 
